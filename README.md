@@ -7,4 +7,4 @@
 Реализация вычисления функции отклика для круглого края.
 Использование OpenGL для визуализации результатов.
 Генерация документации с использованием Doxygen.
-Ссылка на основной проект https://github.com/MatveyChvikov1/MatveyChvikov1
+Ссылка на основной проект [https://github.com/MatveyChvikov1/MatveyChvikov1](https://github.com/MatveyChvikov/misis2023f-22-4-chvikov_m_e)
